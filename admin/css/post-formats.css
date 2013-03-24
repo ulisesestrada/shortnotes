@@ -1,0 +1,8 @@
+/*Post Format Fields*/
+
+div.inside p label {
+    float: left;
+    font-weight: 700;
+    text-shadow: 0 1px 0 #FFFFFF;
+    width: 35%;
+}
